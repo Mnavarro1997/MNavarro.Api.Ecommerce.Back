@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MNavarro.Ecommerce.API.Buena", "MNavarro.Ecommerce.API.Buena.csproj", "{F4330110-1F78-4232-94AD-60540319202F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4330110-1F78-4232-94AD-60540319202F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4330110-1F78-4232-94AD-60540319202F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4330110-1F78-4232-94AD-60540319202F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4330110-1F78-4232-94AD-60540319202F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D02775B-D87C-4B2D-B07D-D19D9D418CFF}
+	EndGlobalSection
+EndGlobal
